@@ -1,1 +1,1 @@
-# ocean-squid-apis
+# Ocean-Squid-APIs
